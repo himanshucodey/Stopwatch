@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap");
 
 body {
-  background-image: url("https://search.brave.com/images?q=4k%20backgroud");
-  /* background-color: crimson; */
-
+  /* background-image: url("https://imgs.search.brave.com/UePhRf4Vy4uFot86jo1bOXrmyz3hAYGchUH8WW56ci8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDQ2NzY1/OTkuanBn"); */
+  background-color: crimson;
+height: 70vh;
   font-family: "Courier Prime", monospace;
   background-repeat: no-repeat;
   background-position: center;
